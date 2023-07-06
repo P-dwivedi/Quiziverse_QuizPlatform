@@ -1,0 +1,44 @@
+1.
+Who has won the SAFF Championship 2023 title?
+A. India
+options:
+"A. India",
+"B. Bangladesh",
+"C. Uae",
+"D. Kuwait"
+
+2.
+Who has been appointed as the National Cyber Security Coordinator (NCSC)?
+C. M.U. Nair
+options:
+"A. Nirmala Laxman",
+"B. Sanjay Verma",
+"C. M.U. Nair",
+"D. Amrendu Prakash"
+
+3.
+Who has become the chief selector of the Indian cricket team?
+D. Ajit Agarkar
+options:
+"A. Mahendra Singh Dhoni",
+"B. Virat Kohli",
+"C. Sachin Tendulkar",
+"D. Ajit Agarkar"
+
+4.
+Which country has demanded permanent membership of India in UNSC?
+B. Britain
+options:
+"A. America",
+"B. Britain",
+"C. France",
+"D. Russia"
+
+5.
+Who is the CEO of Starbucks?
+C. Laxman Narasimhan
+options:
+"A. Sundar Pichai",
+"B. Neal Mohan",
+"C. Laxman Narasimhan",
+"D. Satya Nadella"

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiziverse - A World of Quizzes</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <main class="main">
+      <header class="header">
+        <a href="#" class="logo">Quiziverse</a>
+
+        <nav class="navbar">
+          <a href="#" class="active">Home</a>
+          <a href="#">About</a>
+          <a href="#">Services</a>
+          <a href="#">Contact</a>
+        </nav>
+      </header>
+      <div class="container">
+        <section class="quiz-section">
+          <div class="quiz-box">
+            <h1>Quiziverse</h1>
+            <div class="quiz-header">
+              <span>Quizzing Platform</span>
+              <span class="header-score">Score: 0 / 5</span>
+            </div>
+
+            <h2 class="question-text">
+              Who has won the Austrian Grand Prix 2023 title?
+            </h2>
+
+            <div class="option-list">
+              <!-- <div class="option">
+                <span>A. Sergio Perez</span>
+              </div>
+              <div class="option">
+                <span>B. Charles Leclerc</span>
+              </div>
+              <div class="option">
+                <span>C. Max Verstappen</span>
+              </div>
+              <div class="option">
+                <span>D. Lewis Hamilton</span>
+              </div> -->
+            </div>
+
+            <div class="quiz-footer">
+              <span class="question-total">1 of 5 Questions</span>
+              <button class="next-btn">Next</button>
+            </div>
+          </div>
+
+          <div class="result-box">
+            <h2>Quiz Result!</h2>
+            <div class="percentage-container">
+              <div class="circular-progress">
+                <span class="progress-value">0%</span>
+              </div>
+
+              <span class="score-text">Your Score 0 out of 5</span>
+            </div>
+
+            <div class="buttons">
+              <button class="tryAgain-btn">Try Again</button>
+              <button class="goHome-btn">Go To Home</button>
+            </div>
+          </div>
+        </section>
+        <section class="home">
+          <div class="home-content">
+            <h1>Let's Play</h1>
+            <p>
+              Welcome to Quiziverse, the ultimate destination for all knowledge
+              seekers! Dive into a world of knowledge and test your awareness
+              with our daily quizzes that cover the hottest topics and latest
+              news.
+            </p>
+            <button class="start-btn">Start Quiz</button>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <div class="popup-info">
+      <h2>Quiz Guidelines</h2>
+      <span class="info">1. Read the questions carefully.</span>
+      <span class="info">2. Choose one correct answer per question.</span>
+      <span class="info">3. Be prepared for varied difficulty levels.</span>
+      <span class="info">4. Time limit may apply (if applicable).</span>
+      <span class="info">5. Enjoy the quiz and have fun!</span>
+
+      <div class="btn-group">
+        <button class="info-btn exit-btn">Exit Quiz</button>
+        <a href="#" class="info-btn continue-btn">Continue</a>
+      </div>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
