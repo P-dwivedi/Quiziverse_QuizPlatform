@@ -1,44 +1,44 @@
 1.
-Who has won the SAFF Championship 2023 title?
-A. India
+Jimex-23 maritime exercise is being held between India and which country?
+A. Japan
 options:
-"A. India",
-"B. Bangladesh",
-"C. Uae",
-"D. Kuwait"
+"A. Japan",
+"B. Indonesia",
+"C. America",
+"D. United Kingdom"
 
 2.
-Who has been appointed as the National Cyber Security Coordinator (NCSC)?
-C. M.U. Nair
+Who has become the Chief Financial Officer (CFO) of SBI?
+A. Kameshwar Rao Kodavanti
 options:
-"A. Nirmala Laxman",
-"B. Sanjay Verma",
-"C. M.U. Nair",
-"D. Amrendu Prakash"
+"A. Kameshwar Rao Kodavanti",
+"B. Ajit Agarkar",
+"C. PM Prasad",
+"D. Tushar Mehta"
 
 3.
-Who has become the chief selector of the Indian cricket team?
-D. Ajit Agarkar
+Who recently became the first person in the world to lose $200 billion in assets?
+C. Elon Musk
 options:
-"A. Mahendra Singh Dhoni",
-"B. Virat Kohli",
-"C. Sachin Tendulkar",
-"D. Ajit Agarkar"
+"A. Jeff Bezos",
+"B. Bill Gates",
+"C. Elon Musk",
+"D. Talulah Relay"
 
 4.
-Which country has demanded permanent membership of India in UNSC?
-B. Britain
+The 2021 G20 Summit was held in which country?
+A. Italy
 options:
-"A. America",
-"B. Britain",
-"C. France",
-"D. Russia"
+"A. Italy",
+"B. Brazil",
+"C. South Africa",
+"D. India"
 
 5.
-Who is the CEO of Starbucks?
-C. Laxman Narasimhan
+Who is the CEO of Twitter?
+A. Linda Yaccarino
 options:
-"A. Sundar Pichai",
+"A. Linda Yaccarino",
 "B. Neal Mohan",
 "C. Laxman Narasimhan",
 "D. Satya Nadella"
