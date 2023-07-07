@@ -1,50 +1,50 @@
 let questions = [
   {
     numb: 1,
-    question: "Who has won the SAFF Championship 2023 title?",
-    answer: "A. India",
-    options: ["A. India", "B. Bangladesh", "C. Uae", "D. Kuwait"],
+    question:
+      "Jimex-23 maritime exercise is being held between India and which country?",
+    answer: "A. Japan",
+    options: ["A. Japan", "B. Indonesia", "C. America", "D. United Kingdom"],
   },
 
   {
     numb: 2,
-    question:
-      "Who has been appointed as the National Cyber Security Coordinator (NCSC)?",
-    answer: "C. M.U. Nair",
+    question: "Who has become the Chief Financial Officer (CFO) of SBI?",
+    answer: "A. Kameshwar Rao Kodavanti",
     options: [
-      "A. Nirmala Laxman",
-      "B. Sanjay Verma",
-      "C. M.U. Nair",
-      "D. Amrendu Prakash",
+      "A. Kameshwar Rao Kodavanti",
+      "B. Ajit Agarkar",
+      "C. PM Prasad",
+      "D. Tushar Mehta",
     ],
   },
 
   {
     numb: 3,
-    question: "Who has become the chief selector of the Indian cricket team?",
-    answer: "D. Ajit Agarkar",
+    question:
+      "Who recently became the first person in the world to lose $200 billion in assets?",
+    answer: "C. Elon Musk",
     options: [
-      "A. Mahendra Singh Dhoni",
-      "B. Virat Kohli",
-      "C. Sachin Tendulkar",
-      "D. Ajit Agarkar",
+      "A. Jeff Bezos",
+      "B. Bill Gates",
+      "C. Elon Musk",
+      "D. Talulah Relay",
     ],
   },
 
   {
     numb: 4,
-    question:
-      "Which country has demanded permanent membership of India in UNSC?",
-    answer: "B. Britain",
-    options: ["A. America", "B. Britain", "C. France", "D. Russia"],
+    question: "The 2021 G20 Summit was held in which country?",
+    answer: "A. Italy",
+    options: ["A. Italy", "B. Brazil", "C. South Africa", "D. India"],
   },
 
   {
     numb: 5,
-    question: "Who is the CEO of Starbucks?",
-    answer: "C. Laxman Narasimhan",
+    question: "Who is the CEO of Twitter?",
+    answer: "A. Linda Yaccarino",
     options: [
-      "A. Sundar Pichai",
+      "A. Linda Yaccarino",
       "B. Neal Mohan",
       "C. Laxman Narasimhan",
       "D. Satya Nadella",
